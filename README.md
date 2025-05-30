@@ -46,6 +46,7 @@ Carro X:
 - Ano: 2020
 - Preço: 98500.50
 
+---
 
 ## 📚 Conceitos Utilizados
 - Orientação a Objetos
